@@ -1,7 +1,7 @@
 A C++ implementation of triangulating a subdivision formed by a given set of line segments
 
 
-# A Sample Set of Input to Try Out
+# A Sample Set of Input to Try Out (Star Trek insignia)
 
 ```bash
 4
